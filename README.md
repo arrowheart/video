@@ -1,2 +1,0 @@
-# video
-tugas video
