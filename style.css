@@ -7,7 +7,9 @@ h2 {
     color: rgb(102, 16, 43);
 }
 
-bhf p, img {
-    margin: 10px;
-    display: inline-block;
+bhf img {
+    margin-right: 20px;
+}
+bhf p {
+    float: left;
 }
