@@ -2,24 +2,54 @@ div {
     width: 70%;
     margin: auto;
 }
-
-h2 {
-    color: rgb(102, 16, 43);
+.bhf img {
+    margin-left: -50px;
 }
 
-
-
-bhf img {
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
+.bhf {
+    .bhf-vision {
+        margin-top: -200px;
+        margin-left: 250px;
+    }
+    
+    .bhf-bhf {
+        margin-left: 250px;
+    }
+    
+    .bhf-providing {
+        margin-left: 250px;
+    }
 }
 
-bhf p {
-    width: 70px;
-    text-align: justify;
-    margin-right: 30px;
-    font-size: medium;
-    line-height: 22px;
-    padding: 5px;
+.value img {
+    margin-top: 70px;
+    margin-left: 470px;
+}
+.value {
+    .value-value {
+        margin-top: -200px;
+        margin-left: 250px;
+    }
+
+    .value-point {
+        margin-left: -50px;
+        margin-block-end: 80px;
+    }
+}
+
+.mission img {
+    margin-top: -6px;
+    margin-left: -50px;
+}
+
+.mission {
+    .mission-mission {
+        margin-top: -200px;
+        margin-left: 250px;
+    }
+    
+    .mission-help {
+        margin-top: 20px;
+        margin-left: 250px;
+    }
 }
