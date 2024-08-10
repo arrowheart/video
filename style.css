@@ -53,3 +53,7 @@ div {
         margin-left: 250px;
     }
 }
+
+.lippies {
+    display: flex;
+}
