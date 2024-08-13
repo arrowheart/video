@@ -53,3 +53,31 @@ div {
         margin-left: 250px;
     }
 }
+
+.horizon-scroll {
+    width: 100%;
+    overflow-x: scroll;
+    scroll-margin-top: 2%;
+}
+
+.lippies {
+    display: flex;
+    width: max-content;
+    gap: 1rem;
+}
+
+.ambassador {
+    background-image: url(/img/pink-gradient.jpg);
+    margin: 2%;
+    width: 50%;
+}
+
+.ambassador-form {
+    margin: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.cushion-ul ul {
+    list-style-type: square;
+}
