@@ -1,0 +1,13 @@
+body {
+    background-color: #303A6D;
+    margin: 0px;
+}
+
+.tab-1 {
+    margin-top: -21px;
+    background-image: linear-gradient(to bottom, #10153B, #264480);
+}
+
+.tab-1 img {
+    zoom: 50%;
+}
