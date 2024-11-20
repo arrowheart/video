@@ -1,0 +1,38 @@
+.lima {
+    height: 50px;
+}
+
+.seratus {
+    height: 100px;
+}
+
+.merah {
+    background-color: red;
+}
+
+.kuning {
+    background-color: yellow;
+}
+
+.hijau {
+    background-color: green;
+}
+
+body {
+    background-color: #ebe8e8;
+}
+
+.card-body {
+    background-color: rgba(124, 114, 139, 0.637);
+}
+
+.illit-card {
+    gap: 10px;
+    height: 500px;
+    align-content: center;
+    text-align: justify;
+}
+
+.illit-btn {
+    width: 100%;
+}
